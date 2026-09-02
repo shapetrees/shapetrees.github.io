@@ -1,12 +1,13 @@
-# shapetrees.org
+# shapetrees.github.io
 
 The landing page for [Shape Trees](https://w3id.org/shapetrees), a
 [W3C Solid Community Group](https://www.w3.org/community/solid/) work effort.
 
-It is a static page with no build step, served by GitHub Pages from `main` at
-<https://shapetrees.github.io/shapetrees.org/>, which
-<https://w3id.org/shapetrees> redirects to. The site was formerly published at
-`shapetrees.org`, which is no longer hosted.
+It is a static page with no build step. Because this repository is named
+`shapetrees.github.io`, GitHub Pages serves it from `main` as the organization
+site at <https://shapetrees.github.io/>, which <https://w3id.org/shapetrees>
+redirects to. The site was formerly published at `shapetrees.org`; that domain
+expired and is now squatted.
 
 The two documents it links to live in their own repositories and have their own
 Pages sites:
